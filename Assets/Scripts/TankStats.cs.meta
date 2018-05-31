@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 044decf0d2e25724b9aa1ec186142363
+timeCreated: 1525078654
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BustedTank: {fileID: 4458596227937182, guid: 51a58302b16933143802ea85c3c14a72,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
